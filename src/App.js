@@ -5,20 +5,20 @@ const tracks = [
   {
     name: "Calm Night",
     artist: "Unknown Artist",
-    image: "/Assets/photo1.png",
-    path: "/Assets/calm-night.mp3",
+    image: process.env.PUBLIC_URL + "/Assets/photo1.png",
+    path: process.env.PUBLIC_URL + "/Assets/calm-night.mp3",
   },
   {
     name: "Beatkitchen Bittersweet",
     artist: "Unknown Artist",
-    image: "/Assets/photo2.png",
-    path: "/Assets/beatkitchen-bittersweet.mp3",
+    image: process.env.PUBLIC_URL + "/Assets/photo2.png",
+    path: process.env.PUBLIC_URL + "/Assets/beatkitchen-bittersweet.mp3",
   },
   {
     name: "Travel",
     artist: "Unknown Artist",
-    image: "/Assets/photo3.png",
-    path: "/Assets/travel.mp3",
+    image: process.env.PUBLIC_URL + "/Assets/photo3.png",
+    path: process.env.PUBLIC_URL + "/Assets/travel.mp3",
   },
 ];
 
