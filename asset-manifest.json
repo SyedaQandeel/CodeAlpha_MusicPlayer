@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeAlpha_MusicPlayer/static/css/main.89bbf0b7.css",
-    "main.js": "/CodeAlpha_MusicPlayer/static/js/main.f2c588c2.js",
+    "main.js": "/CodeAlpha_MusicPlayer/static/js/main.abadf5c1.js",
     "static/js/453.ce6493cb.chunk.js": "/CodeAlpha_MusicPlayer/static/js/453.ce6493cb.chunk.js",
     "index.html": "/CodeAlpha_MusicPlayer/index.html",
     "main.89bbf0b7.css.map": "/CodeAlpha_MusicPlayer/static/css/main.89bbf0b7.css.map",
-    "main.f2c588c2.js.map": "/CodeAlpha_MusicPlayer/static/js/main.f2c588c2.js.map",
+    "main.abadf5c1.js.map": "/CodeAlpha_MusicPlayer/static/js/main.abadf5c1.js.map",
     "453.ce6493cb.chunk.js.map": "/CodeAlpha_MusicPlayer/static/js/453.ce6493cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89bbf0b7.css",
-    "static/js/main.f2c588c2.js"
+    "static/js/main.abadf5c1.js"
   ]
 }
